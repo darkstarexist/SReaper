@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">SneakReaper</string>
+    <string name="url">Enter the Url of Manhwa</string>
+    <string name="sneakreaper">SneakReaper</string>
+    <string name="download">Download</string>
+    <string name="progress_0">Progress: 0%</string>
+    <string name="view_downloads">View Downloads</string>
+    <string name="https_reaperscans_com_series">https://reaperscans.com/series/</string>
+    <string name="cancel_download">Cancel Download</string>
+    <string name="recycleviewchapter">RecycleviewChapter</string>
+    <string name="card_description">CardView Text</string>
+</resources>
